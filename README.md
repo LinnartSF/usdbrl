@@ -14,3 +14,4 @@ looking at a scatterplot of crude oil futures vs usd brl exchange rate:
 for reference, this is how eur brl exchange rate have developed in comparison to crude oil prices
 ![plot](eurbrl_oil_timeseries.png)
 
+both the eurbrl and usdbrl time series vs crude oil futures indicate that, in the recent 10 years, higher crude oil futures have resulted in a stronger BRL vs. USD and EUR.
