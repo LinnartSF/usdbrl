@@ -2,3 +2,10 @@
 my repo for predicting usd brl exchange rate
 
 you can e.g. make similar analysis with quandl data, querying quandl data in Python. I covered this on my blog, see here https://www.supplychaindataanalytics.com/querying-automotive-industry-data-from-quandl-in-python/
+
+## first thing that I looked at was crude oil futures vs exchange rate
+![plot](usdbrl_oil_timeseries.png)
+
+![plot](usdbrl_oilprice_scatter.png)
+
+
